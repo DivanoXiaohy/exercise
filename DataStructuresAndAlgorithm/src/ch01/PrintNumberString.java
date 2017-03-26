@@ -4,7 +4,7 @@ public class PrintNumberString {
 	//P7	图1-4
 	//将整型数字，一个一个打印出来
 	public static void main(String[] args) {
-		printOut(123);
+		printOut(123); 
 	}
 	
 	public static void printOut(int num){
